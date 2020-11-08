@@ -63,7 +63,7 @@ export default {
 .logo{
   max-height:100px;
   margin-bottom:auto;
-  margin-left: 50%;
+  margin-left: 48%;
 }
 
 .allButton{
@@ -83,7 +83,6 @@ export default {
   margin-top:10px;
   color: rgb(255, 255, 255);
 }
-
 
 
 
